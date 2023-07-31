@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Code Buddy</string>
+    <string name="description">Coding is the process of transforming ideas, solutions, and instructions into the language that the computer can understand – that is, binary-machine code. Coding is how humans are able to talk with computers.</string>
+
+    <string name="Java">Java is a high-level, general-purpose programming language that was first released by Sun Microsystems in 1995. It was designed to be platform-independent, meaning that Java programs can run on any device or operating system that has a Java Virtual Machine (JVM) installed.
+    Java is known for its "write once, run anywhere" philosophy, which means that once a Java program is compiled into bytecode, it can be executed on any system with a compatible JVM without the need for recompilation. This makes Java highly portable and versatile.</string>
+    <string-array name="Java_contains">
+        <item>Java introduction</item>
+        <item>JDK,JRE,JVM</item>
+        <item>Syntax</item>
+        <item>First Program</item>
+        <item>Comments</item>
+        <item>Data Types</item>
+        <item>Type Casting</item>
+        <item>Operators</item>
+        <item>Conditional Statements</item>
+        <item>Loops</item>
+        <item>Arrays</item>
+        <item>Methods and Recursion</item>
+        <item>Class and objects</item>
+        <item>OPPs Concepts</item>
+        <item>Error Handling</item>
+    </string-array>
+
+    <string name="Android">Android is an open-source operating system specifically designed for mobile devices such as smartphones and tablets. It was developed by Google and the Open Handset Alliance, a consortium of technology companies. Android is built on the Linux kernel and is one of the most widely used mobile operating systems in the world.
+    </string>
+
+    <string name="Python">
+    Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python emphasizes code readability and focuses on providing a clear and concise syntax, making it an excellent language for both beginners and experienced programmers.
+    </string>
+
+    <string name="SQL">SQL (Structured Query Language) is a standard programming language used for managing and manipulating relational databases. It provides a way to communicate with databases to perform tasks such as storing, retrieving, modifying, and deleting data. SQL is not specific to any particular database management system (DBMS) but is widely supported by various database platforms.
+    SQL is widely used in a variety of applications and industries, including web development, data analysis, business intelligence, and enterprise systems. It offers a powerful and efficient way to manage and interact with structured data, making it an essential skill for working with databases.</string>
+
+    <string name="DBMS">A DBMS (Database Management System) is software that allows users to create, manage, and manipulate databases. It serves as an interface between users or applications and the physical database, providing a set of tools and functions to efficiently store, retrieve, and modify data.A DBMS simplifies data management and provides an efficient and scalable solution for handling large volumes of data.
+    </string>
+
+    <string name="Dart">Dart is a programming language developed by Google that is designed to be used for building mobile, web, and desktop applications. It was announced in 2011 and has since gained popularity as the primary language for developing applications using the Flutter framework.
+    Overall, Dart is a versatile and powerful programming language that offers developers a productive and efficient environment for building mobile, web, and desktop applications. Its integration with the Flutter framework has contributed to its growing popularity, making it a preferred choice for cross-platform app development.</string>
+
+    <string name="Cloud">
+    Cloud computing refers to the delivery of on-demand computing resources over the internet. It allows individuals and organizations to access a variety of computing services, including servers, storage, databases, networking, software, and analytics, without the need for investing in or managing physical infrastructure.
+    </string>
+
+    <string name="Data_Structure">A data structure refers to the way data is organized, stored, and accessed in a computer is memory or storage system. It provides a means to efficiently manage and manipulate data, enabling efficient operations such as insertion, deletion, search, and retrieval.
+    </string>
+
+    <string name="AdvancedJ">Advanced Java refers to the extended features and libraries provided in addition to the core Java programming language. It encompasses various technologies and APIs that enable developers to build complex and enterprise-level applications. Advanced Java includes topics such as Java Database Connectivity (JDBC), JavaServer Pages (JSP), Java Servlets, JavaBeans, Enterprise JavaBeans (EJB), and Java Persistence API (JPA).
+    </string>
+
+    <string name="Cpp">
+    C++ is a powerful and widely used programming language that provides a combination of high-level and low-level features. It was developed as an extension of the C programming language and introduced additional capabilities such as object-oriented programming (OOP) and support for generic programming.
+    </string>
+
+    <string name="C">C is a widely used and influential programming language that was developed in the early 1970s. It was designed to be a simple, efficient, and low-level language for system programming and software development.
+    </string>
+
+
+    <string name="OpenDrawer">Open navigation Drawer</string>
+    <string name="CloseDrawer">Close navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rate_us">If you are enjoy using our app, Would you mind rating us on the App Store.</string>
+
+
+</resources>
